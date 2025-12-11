@@ -208,3 +208,6 @@ __marimo__/
 
 # Mac
 .DS_Store
+
+data/raw/yelp_raw.json
+data/processed/yelp_cleaned.csv
