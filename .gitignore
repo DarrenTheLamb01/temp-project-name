@@ -214,3 +214,6 @@ __marimo__/
 
 data/raw/yelp_raw.json
 data/processed/yelp_cleaned.csv
+
+# visuals
+.virtual_documents/src/visualization
