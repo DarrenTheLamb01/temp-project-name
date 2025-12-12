@@ -209,5 +209,8 @@ __marimo__/
 # Mac
 .DS_Store
 
+# Pycharm
+.idea
+
 data/raw/yelp_raw.json
 data/processed/yelp_cleaned.csv
